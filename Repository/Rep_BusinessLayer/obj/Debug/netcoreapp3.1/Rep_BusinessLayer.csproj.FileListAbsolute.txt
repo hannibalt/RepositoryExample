@@ -1,0 +1,8 @@
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_BusinessLayer\bin\Debug\netcoreapp3.1\Rep_BusinessLayer.deps.json
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_BusinessLayer\bin\Debug\netcoreapp3.1\Rep_BusinessLayer.dll
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_BusinessLayer\obj\Debug\netcoreapp3.1\Rep_BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_BusinessLayer\obj\Debug\netcoreapp3.1\Rep_BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_BusinessLayer\obj\Debug\netcoreapp3.1\Rep_BusinessLayer.AssemblyInfo.cs
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_BusinessLayer\bin\Debug\netcoreapp3.1\Rep_BusinessLayer.pdb
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_BusinessLayer\obj\Debug\netcoreapp3.1\Rep_BusinessLayer.dll
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_BusinessLayer\obj\Debug\netcoreapp3.1\Rep_BusinessLayer.pdb

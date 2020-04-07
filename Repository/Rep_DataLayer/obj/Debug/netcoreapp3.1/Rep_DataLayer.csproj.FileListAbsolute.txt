@@ -1,0 +1,10 @@
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\bin\Debug\netcoreapp3.1\Rep_DataLayer.deps.json
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\bin\Debug\netcoreapp3.1\Rep_DataLayer.dll
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\obj\Debug\netcoreapp3.1\Rep_DataLayer.csprojAssemblyReference.cache
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\obj\Debug\netcoreapp3.1\Rep_DataLayer.AssemblyInfoInputs.cache
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\obj\Debug\netcoreapp3.1\Rep_DataLayer.AssemblyInfo.cs
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\bin\Debug\netcoreapp3.1\Rep_DataLayer.runtimeconfig.json
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\bin\Debug\netcoreapp3.1\Rep_DataLayer.runtimeconfig.dev.json
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\bin\Debug\netcoreapp3.1\Rep_DataLayer.pdb
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\obj\Debug\netcoreapp3.1\Rep_DataLayer.dll
+C:\Users\Hannibal\Documents\GitHub\RepositoryExample\Repository\Rep_DataLayer\obj\Debug\netcoreapp3.1\Rep_DataLayer.pdb
